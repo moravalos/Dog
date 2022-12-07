@@ -48,7 +48,7 @@ const animations = [
         name: 'sit',
         frames: 5,
         key: 'Digit6',
-        description: 'Perro setando'
+        description: 'Perro Sentado'
     },
     {
         name: 'roll',
